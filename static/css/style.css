@@ -79,7 +79,7 @@ body a:focus {
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/move-top.png) no-repeat 0px 0px;
+	background: url(../../media/move-top.png) no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -164,7 +164,7 @@ a.navbar-brand i {
 /* banner */
 
 .banner {
-	background: url(../images/bg.jpg) center no-repeat;
+	background: url(../../media/bg.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -174,7 +174,7 @@ a.navbar-brand i {
 }
 
 .inner-banner {
-    background: url(../images/bg.jpg) 0px;
+    background: url(../../media/bg.jpg) 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -469,16 +469,16 @@ ul.callbacks_tabs {
 	text-decoration: none;
 	height: 34px;
 	width: 34px;
-	background: url("../images/left.png") no-repeat 0px 0px;
+	background: url("../../media/left.png") no-repeat 0px 0px;
 }
 .callbacks_nav.prev {
 	left: auto;
-	background: url("../images/back.png") no-repeat 0px 0px;
+	background: url("../../media/back.png") no-repeat 0px 0px;
 	left: 18em;
 }
 .callbacks_nav.next {
 	left: auto;
-	background: url("../images/next.png") no-repeat 0px 0px;
+	background: url("../../media/next.png") no-repeat 0px 0px;
 	right: 18em;
 }
 .callbacks_nav:active {
@@ -593,7 +593,7 @@ ul.callbacks_tabs {
 	padding: 1em 2em 5em;
 }
 .testimonials {
-	background: url(../images/bg1.jpg) center no-repeat;
+	background: url(../../media/bg1.jpg) center no-repeat;
 	width: 100%;
 	height: 500px;
     -webkit-background-size: cover;
